@@ -1,1 +1,1 @@
-# nmt-client
+Nuclear Masses Toolkit Client
